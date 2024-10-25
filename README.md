@@ -1,2 +1,2 @@
 # discussion-of-death
-a discussion of death
+사망토론
